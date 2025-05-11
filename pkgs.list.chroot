@@ -14,7 +14,6 @@ xorg
 xserver-xorg-video-all
 firmware-realtek
 firmware-amd-graphics
-language-pack-ru
 fonts-noto
 libadwaita-1-0
 sudo
