@@ -26,7 +26,7 @@ flatpak
 gnome-software
 gnome-software-plugin-flatpak
 neofetch
-gnome-system-monitor
+htop
 gnome-text-editor
 file-roller
 transmission
